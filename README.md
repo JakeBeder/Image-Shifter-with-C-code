@@ -1,1 +1,1 @@
-# Image-Shifter-with-C-code
+# Image-Shifter-with-C-code-UniversityofOregon
